@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.video-container {
+  margin-bottom: 20px;
+}
+
+.button-container {
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.preview-container {
+  margin-top: 20px;
+}
+
+.footer{
+  text-align: center;
+  font-size: small;
+  margin-top: 375px;
+}
