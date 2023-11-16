@@ -1,3 +1,10 @@
+#Install Necessary dependencies 
+
+Use npm install before running the project and once all the necessary files are installed yoi can use "npm start" for run the application
+
+I have a demo video of the project inside the repo, kindly check you will get an idea of the project how it works.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
